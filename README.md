@@ -13,7 +13,8 @@ This article presents a novel framework for quantifying the asymmetric coupling 
 Please cite our work if you find our code/paper is useful to your work:
 
 ```@article{WANG2025116238,  
-title = {Assessing multilayer network robustness under asymmetric coupling using motif entropy},  journal = {Chaos, Solitons & Fractals},
+title = {Assessing multilayer network robustness under asymmetric coupling using motif entropy},
+journal = {Chaos, Solitons & Fractals},
 volume = {194},
 pages = {116238},
 year = {2025},
