@@ -1,9 +1,9 @@
 # **``Assessing Multilayer Network Robustness Under Asymmetric Coupling Using Motif Entropy``**
 
 <p align="center">
-  <img src="https://github.com/WDan1010/MN-Robust-MotifE/blob/main/Fig/1.png" width="300" />
-  <img src="https://github.com/WDan1010/MN-Robust-MotifE/blob/main/Fig/2.png" width="300" />
-  <img src="https://github.com/WDan1010/MN-Robust-MotifE/blob/main/Fig/3.png" width="300" />
+  <img src="https://github.com/WDan1010/MN-Robust-MotifE/blob/main/Fig/1.png" width="200" />
+  <img src="https://github.com/WDan1010/MN-Robust-MotifE/blob/main/Fig/2.png" width="200" />
+  <img src="https://github.com/WDan1010/MN-Robust-MotifE/blob/main/Fig/3.png" width="200" />
 </p>
 
 This article presents a novel framework for quantifying the asymmetric coupling in multi-layer networks. It introduces motif entropy based on high-order topological structures to evaluate network robustness, revealing the crucial role of asymmetric coupling in the propagation of cascading failures and its impact on the resilience of the system.
